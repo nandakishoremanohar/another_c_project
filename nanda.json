@@ -1,0 +1,7 @@
+{
+	"database_name": "nanda",
+	"records": [
+		{"id": 1, "name": "john"}
+	,
+		{"id": 2, "johnson": "james"}
+	]
