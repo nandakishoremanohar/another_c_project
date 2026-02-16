@@ -1,1 +1,2 @@
-This is a simple document based database .It works as both a python extension and a terminal based database .I call it NandaDB as it correlates to my name. To test it yourself you would have to have python development headers, and a c compiler . 
+# another_c_project
+this is a cpp + c project with a database 
